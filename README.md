@@ -19,6 +19,8 @@
 - [Email](mailto:dimalomanec@gmail.com)
 - [Telegram](https://t.me/DmitriyLom/)
 
+
+
 [![codewars](https://www.codewars.com/users/Lomanets/badges/large)](https://www.codewars.com/users/Lomanets)   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
