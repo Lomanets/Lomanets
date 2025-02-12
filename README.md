@@ -11,8 +11,8 @@
 - **Дизайн:** Figma, Adobe XD
 
 ## 🚀 Проекты
-- [Project1](https://github.com/Lomanets/guest_house) - Сайт для Гостиного дома с адаптивным дизайном, созданный на чистом HTML/CSS и JavaScript.
-- [Project2](https://github.com/Lomanets/codeoflogic) - Сайт для онлайн школы программирования с адаптивным дизайном, созданный на чистом HTML/CSS и JavaScript.
+- [Сайт гостиного дома](https://github.com/Lomanets/guest_house) - Сайт для Гостиного дома с адаптивным дизайном, созданный на чистом HTML/CSS и JavaScript.
+- [Онлайн школа программирования](https://github.com/Lomanets/codeoflogic) - Сайт для онлайн школы программирования с адаптивным дизайном, созданный на чистом HTML/CSS и JavaScript.
 
 
 ## 📞 Связаться со мной
@@ -23,4 +23,4 @@
 
 [![codewars](https://www.codewars.com/users/Lomanets/badges/large)](https://www.codewars.com/users/Lomanets)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lomanets&theme=dark)](https://git.io/streak-stats)
+
