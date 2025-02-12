@@ -20,7 +20,7 @@
 - [Telegram](https://t.me/DmitriyLom/)
 
 
-
+## Мой codewars
 [![codewars](https://www.codewars.com/users/Lomanets/badges/large)](https://www.codewars.com/users/Lomanets)   
 
 
