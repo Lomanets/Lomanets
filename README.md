@@ -23,4 +23,4 @@
 
 [![codewars](https://www.codewars.com/users/Lomanets/badges/large)](https://www.codewars.com/users/Lomanets)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lomanets&theme=dark)](https://git.io/streak-stats)
